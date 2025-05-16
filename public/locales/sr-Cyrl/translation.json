@@ -1,0 +1,13 @@
+{
+    "Agent:": "Агент:",
+    "Write a message": "Напиши поруку",
+    "An error occurred while opening web chat.": "Дошло је до грешке при отварању веб преписке.",
+    "Download the file": "Преузми фајл",
+    "Not allowed file extension.": "Тип документа није подржан.",
+    "Agent login": "Пријава као агент",
+    "Login": "Пријава",
+    "Enter your username:": "Унесите своје корисничко име:",
+    "Username": "Корисничко име",
+    "An error occurred while logging.": "Грешка приликом пријаве корисника.",
+    "User login": "Пријава корисника"
+}
