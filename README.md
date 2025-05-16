@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+PRIMER APLIKACIJE GENESYS CLIENT CHAT-A I KOMUNIKACIJU SA BOTOM PREKO SOCKET-A, INTEGRACIJA SA SAJTOM PREKO SNIPPET-A
+NIJE SVE IMPLEMENTIRANO I PRILAGOĐENO JE PRIMERU JER JE BEZ GENESYS-A
 ## Getting Started
 
 First, run the development server:
